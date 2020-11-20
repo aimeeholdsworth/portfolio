@@ -1,0 +1,31 @@
+#hero > div > div > div.col-md-6.text-right > img{
+	border-radius: 500px;
+
+
+
+.hero .col-md-6:last-child {
+	bottom: 50px;
+}
+
+#portfolio-item-info{
+	float:left;
+	height:500px;
+
+}
+
+.migraine{
+	width: 200px !important;
+	height: 50px;
+}
+
+
+
+#portfolio_text{
+	float: right !important;
+}
+
+
+#right_align{
+	text-align: right;
+}
+
